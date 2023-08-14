@@ -1,0 +1,35 @@
+body {
+    background: gainsboro;
+    color: black;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1000px;
+   
+}
+
+
+button {
+    height: 2.3em;
+    width: 5.5em;
+    border: none;
+    color: black;
+    border: 1px solid gray;
+    cursor: pointer;
+
+}
+
+.init-btn {
+    background-color: #7cfc00;
+}
+
+.pause-btn {
+    background-color: #2f4f4f;
+    color: #ffff;
+}
+
+.stop-btn {
+    background-color: red;
+}
